@@ -1,0 +1,18 @@
+body{
+    padding-bottom: 800px;
+}
+
+div{
+    display: flex;
+    margin-bottom: 15px;
+}
+
+div input, div label{
+    display: block;
+}
+
+/* Input Radio */
+.radio label, .radio input{
+    
+    display: inline-block;
+}
